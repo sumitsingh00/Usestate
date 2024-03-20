@@ -4,7 +4,7 @@ import ProductForm from './components/ProductForm';
 import { useState } from 'react';
 
 function App() {
-
+// array of object hai
   const response = [
     {
       id: "p1",
