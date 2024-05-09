@@ -23,7 +23,7 @@ export default function ProductForm({newProductHandler}) {
     // console.log("correct output", title, date, price);
 
     function formSubmitHandler(event){
-        event.preventDefault();// reload nhi none dega
+        event.preventDefault();// reload nhi hone dega
 
         const newProduct = {
             title: title,
